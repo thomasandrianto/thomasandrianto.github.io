@@ -1,4 +1,3 @@
-# Thomas Andrianto, M.Cs.
 ### Senior Full-Stack Software Engineer | System Architect
 Yogyakarta, Indonesia 
 📧 [thomasandrianto1980@gmail.com](mailto:thomasandrianto1980@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/thomas-andrianto7876a8b0/) | 🏗️ [GitHub](https://github.com/thomasandrianto)
@@ -10,7 +9,7 @@ Independent **Full-Stack Software Engineer** and former **IT Lecturer** with lon
 
 My career began with desktop-based applications and system analysis, which later evolved into Android development, web backend, and modern full-stack architectures. I specialize in the **Laravel ecosystem, Flutter, Node.js, and Next.js**.
 
-As an **M.Cs. graduate** from Gadjah Mada University, I am experienced in end-to-end delivery—from initial requirements analysis and data migration to deployment and production support. I take full ownership of the systems I build, ensuring they are reliable and user-friendly for daily use by organizations and non-technical users.
+I am experienced in end-to-end delivery—from initial requirements analysis and data migration to deployment and production support. I take full ownership of the systems I build, ensuring they are reliable and user-friendly for daily use by organizations and non-technical users.
 
 ---
 
