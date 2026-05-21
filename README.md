@@ -17,16 +17,24 @@ Focused on building reliable, scalable, and maintainable systems used in real op
 ## Core Expertise
 
 **Backend Engineering**
-- Laravel (11+)
+- Laravel (11, 12)
 - Node.js
 - RESTful API Architecture
 - System Design
 
 **Mobile & Frontend**
 - Flutter
-- Next.js
+- Next.js / React
+- Vue.js (with Inertia.js)
 - JavaScript (ES6+)
 - HTML5 & CSS3
+
+**Admin Panel & Internal Tools**
+- Filament PHP
+
+**Testing & Quality Assurance**
+- PHPUnit
+- Pest Testing Framework
 
 **Database & Infrastructure**
 - MySQL / MariaDB
